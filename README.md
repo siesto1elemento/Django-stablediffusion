@@ -10,7 +10,7 @@ To run the chat app, you need to:
     3. Run the virtual environment
     4. Run the backend server
 
-If successful, your browser should open and navigate to http://localhost:3000/. The chat app should load automatically.
+If successful, your browser should open and navigate to http://localhost:8000/. The chat app should load automatically.
 
 Here is a demo photo generated : 
 
