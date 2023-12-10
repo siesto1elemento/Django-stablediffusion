@@ -3,7 +3,7 @@ Generate images from prompts using stable diffusion in a django project
 
 This repository contains all of the starter code needed to run an stable diffussion  app on your local machine:
 
-To run the chat app, you need to:
+To run the django app, you need to:
 
     1. Clone this GitHub repo
     2. Add your API key from replicate in powershell $env:REPLICATE_API_TOKEN =          "Your api key"
